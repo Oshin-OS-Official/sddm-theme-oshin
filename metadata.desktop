@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=sddm-theme-oshin
+Description=sddm-theme-oshin
+Author=oshinos
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/Oshin-OS-Official/sddm-theme-oshin
+Screenshot=Previews/preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=sddm-theme-oshin
+QtVersion=6
